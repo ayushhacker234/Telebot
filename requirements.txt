@@ -1,3 +1,5 @@
+telethon
+python-telegram-bot
 pyTelegramBotAPI
 flask
 gunicorn
